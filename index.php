@@ -21,18 +21,18 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle donc Rémy akaé Lezarius ! Je suis un scientifique du web, je touche as tout et essaye de réalisé ma vision du web et de la vie de demain !
-Je suis un grand fan du jeux vidéo dit rétro, mais aussi des nouvelle technologie et de politique ! Je réalise aussi qu'elle que billet engagé
-sur le monde actuelle et l'économie ! J'aime aussi beaucoup prendre des photo d'élément qu vous ne trouverais jamais interésent et qui pour temps
-me parresse intérésent as montré !
+Je m'appelle donc Rémy Akaé Lezarius ! Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain !
+Je suis un grand fan du jeu vidéo dit rétro, mais aussi des nouvelles technologies et de politique ! Je réalise aussi quelques billets engagés
+sur le monde actuel et l'économie ! J'aime aussi beaucoup prendre des photo d'éléments que vous ne trouverez jamais intéressants et qui pourtant
+me paraissent intéressants à partager !
 <br> 
 <br> 
-Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella est ma force !
+Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
 </article>
 
-<h1 align="center">Une autre facon de me voire</h1>
-<h3>Lezrius est mon "nom" sur les internet !</h3>
-<h6>Vous pouvez donc me retrouver sur différent platforme :</h6>
+<h1 align="center">Une autre facon de me voir</h1>
+<h3>Lezrius est mon "nom" sur les internets !</h3>
+<h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
 	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">@Lezrius</a>
 	<a href="https://github.com/lezarius" class="zocial github">@Lezrius</a>
@@ -43,16 +43,16 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
 <img src="http://placehold.it/240x300" alt="">
 <h4>Né le : </h4>
 <p>30 Janvier 1996</p> 
-<h4>Vie as l'adresse :</h4>
+<h4>Vit à l'adresse :</h4>
 <p>Résidence Gaston Cabannes Batiment 11 Appartement 115 </br>
 31 Avenue Gaston Cabannes </br>
 33270 Floirac
 </p>
   </div>
 </div>
-<!-- Mes experience -->
+<!-- Mes expériences -->
 <div class="row" id="xp">
-<h1 align="center">Mes experience</h1>
+<h1 align="center">Mes expériences</h1>
 <h1 align="center"><span class="glyphicon glyphicon-briefcase"></span>	</h1>
 <div class="row">
 <h3>En 2013 :</h3>
@@ -64,13 +64,13 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
           </div>
           <div class="col-lg-6">
             <blockquote class="pull-right">
-              <p>Aide as la conception et analyse des technique d'architecture moderne.</p>
+              <p>Aide à la conception et analyse des techniques d'architecture moderne.</p>
               <small>Cokaliti Illustration 33270, Floirac</small>
             </blockquote>
           </div>
 <div class="col-lg-6">
             <blockquote>
-              <p>Mise en situation en tribunal et étude d'une affaire criminel.</p>
+              <p>Mise en situation en tribunal et étude d'une affaire criminelle.</p>
               <small>Maître Robert 33000, Bordeaux</small>
             </blockquote>
           </div>
@@ -79,7 +79,7 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
 <h3>En 2012 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Intégration de contenus pour différents site web.</p>
+              <p>Intégration de contenus pour différents sites web.</p>
               <small>Incomm 33270, Floirac</small>
             </blockquote>
           </div>
@@ -89,7 +89,7 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
 <h3>En 2011 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Vente et relation clientel dans un centre commercial.</p>
+              <p>Vente et relation clientelle dans un centre commercial.</p>
               <small>Mag Presse 33270, Floirac</small>
             </blockquote>
           </div>
@@ -99,18 +99,18 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
 <h3>En 2010 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Apprentisage des techniques de réalitation de bijoux et de tracé, conception d'une aliance et de différente piece en acier !</p>
+              <p>Apprentissage des techniques de réalitation de bijoux et de tracés, conception d'une alliance et de différentes pièces en acier.</p>
               <small>Bijouterie Bernard Espina 33000, Bordeaux</small>
             </blockquote>
           </div>
 
 </div>
 <div class="row">
-	<h1 align="center">Mes diplome</h1>
+	<h1 align="center">Mes diplômes</h1>
 	<h1 align="center"><span class="glyphicon glyphicon-folder-open"></span></h1>
           <div class="col-lg-6">
             <blockquote>
-              <p>Brevet Des college</p>
+              <p>Diplôme National du Brevet des Collèges</p>
               <small>Maison Familiale du Blayais 2011 à 2013</small>
             </blockquote>
           </div>
@@ -122,10 +122,10 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
           </div>
 
 </div>
-<!-- Mes compétence -->
+<!-- Mes compétences -->
 <div class="row" id="competence">
 <div class="col-md-9 col-md-push-3">
-	<h1 align="center">Mes compétence</h1>
+	<h1 align="center">Mes compétences</h1>
 	<h1 align="center"><span class="glyphicon glyphicon-cog"></span></h1>
      <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">HTML & CSS
@@ -151,12 +151,12 @@ Pour autemps je reste ouvert d'esprit sur le monde qui m'entoure et c'est cella 
 
 
 <div class="col-md-3 col-md-pull-9">
-<h1>Mes atout</h1>
+<h1>Mes atouts</h1>
 <ul>
 	<li>Esprit d'équipe</li>
-	<li>Adaptatif</li>
-	<li>Entreprenant</li>
-	<li>Veille technoligique</li>
+	<li>Niveau d'adaptation élevé</li>
+	<li>Esprit d'entreprise</li>
+	<li>Veille technologique</li>
 </ul>
 </div>
 </div>
@@ -233,21 +233,21 @@ if(isset($_POST['submit'])) {
       <div class="jumbotron">
         <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
           <fieldset>
-            <legend>Me contactez !</legend>
+            <legend>Me contacter !</legend>
 
             <?php if(isset($hasError)) { //If errors are found ?>
-              <p class="alert alert-danger">Verifié les champs que vous avez remplie. Merci.</p>
+              <p class="alert alert-danger">Verifiez les champs que vous avez remplis. Merci.</p>
             <?php } ?>
 
             <?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
               <div class="alert alert-success">
                 <p><strong>Message envoyé !</strong></p>
-                <p>Merci pour le petit mot, <strong><?php echo $name;?></strong>! Ton message ma bien était transmie !</p>
+                <p>Merci pour le petit mot, <strong><?php echo $name;?></strong>! Ton message m'a bien été transmis !</p>
               </div>
             <?php } ?>
 
             <div class="form-group">
-              <label for="name">Ton Nom/Prenom<span class="help-required">*</span></label>
+              <label for="name">Ton Nom/Prénom<span class="help-required">*</span></label>
               <input type="text" name="contactname" id="contactname" value="" class="form-control required" role="input" aria-required="true" />
             </div>
 
@@ -269,10 +269,10 @@ if(isset($_POST['submit'])) {
 
 
             <div class="form-group">
-              <label for="subject">Subject<span class="help-required">*</span></label>
+              <label for="subject">Sujet<span class="help-required">*</span></label>
               <select name="subject" id="subject" class="form-control required" role="select" aria-required="true">
                 <option></option>
-                <option>Me contacté</option>
+                <option>Me contacter</option>
                 <option>Un projet ?</option>
                 <option>Un contrat ?</option>
                 <option>Autre?</option>
