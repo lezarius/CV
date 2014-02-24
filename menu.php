@@ -19,16 +19,16 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="#xp">Mon experience</a>
+              <a href="#xp">Mon expérience</a>
             </li>
             <li>
-              <a href="#parcour">Mon parcour</a>
+              <a href="#parcour">Mon parcours</a>
             </li>
              <li>
-              <a href="#competence">Mes compétence</a>
+              <a href="#competence">Mes compétences</a>
             </li>
             <li>
-              <a href="#contact">Me contactez</a>
+              <a href="#contact">Me contacter</a>
             </li>
           </ul>
 
