@@ -105,7 +105,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
           </div>
 
 </div>
-<div class="row">
+<div class="row" id="diplome">
 	<h1 align="center">Mes diplômes</h1>
 	<h1 align="center"><span class="glyphicon glyphicon-folder-open"></span></h1>
           <div class="col-lg-6">

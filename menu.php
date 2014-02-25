@@ -22,7 +22,7 @@
               <a href="#xp">Mon expérience</a>
             </li>
             <li>
-              <a href="#parcour">Mon parcours</a>
+              <a href="#diplome">Mes Diplôme</a>
             </li>
              <li>
               <a href="#competence">Mes compétences</a>
