@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+  <meta name="description" content="CV de Rémy Mazabraud" />
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/footer.css">
@@ -21,26 +22,25 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle donc Rémy Akaé Lezarius ! Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain !
-Je suis un grand fan du jeu vidéo dit rétro, mais aussi des nouvelles technologies et de politique ! Je réalise aussi quelques billets engagés
-sur le monde actuel et l'économie ! J'aime aussi beaucoup prendre des photo d'éléments que vous ne trouverez jamais intéressants et qui pourtant
-me paraissent intéressants à partager !
+Je m'appelle donc Rémy Akaé Lezarius. Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
+Je suis un grand fan du jeu vidéo dit rétro, mais aussi des nouvelles technologies et de politique. Je réalise aussi quelques billets engagés
+sur le monde actuel et l'économie. J'aime aussi beaucoup prendre des photographie intéressants à partager.
 <br> 
 <br> 
 Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
 </article>
 
 <h1 align="center">Une autre facon de me voir</h1>
-<h3>Lezrius est mon "nom" sur les internets !</h3>
+<h3>Lezarius est mon "nom" sur les internets !</h3>
 <h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
-	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">@Lezrius</a>
-	<a href="https://github.com/lezarius" class="zocial github">@Lezrius</a>
+	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">@Lezarius</a>
+	<a href="https://github.com/lezarius" class="zocial github">@Lezarius</a>
   </div>
   <!-- Petite colonne  -->
   <div class="col-md-3 col-md-pull-9">
   	<h3><span class="glyphicon glyphicon-user"></span>Rémy Mazabraud</h3>
-<img src="http://placehold.it/240x300" alt="">
+<img src="img/profils.png" alt="" height="250" width="200">
 <h4>Né le : </h4>
 <p>30 Janvier 1996</p> 
 <h4>Vit à l'adresse :</h4>
@@ -238,7 +238,7 @@ if(isset($_POST['submit'])) {
       <div class="jumbotron">
         <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
           <fieldset>
-            <legend>Me contacter !</legend>
+            <legend>Me contacter :</legend>
 
             <?php if(isset($hasError)) { //If errors are found ?>
               <p class="alert alert-danger">Verifiez les champs que vous avez remplis. Merci.</p>
@@ -253,7 +253,7 @@ if(isset($_POST['submit'])) {
 
             <div class="form-group">
               <label for="name">Ton Nom/Prénom<span class="help-required">*</span></label>
-              <input type="text" name="contactname" id="contactname" value="" class="form-control required" role="input" aria-required="true" />
+              <input title="ContactName" type="text" name="contactname" id="contactname" value="" class="form-control required" role="input" aria-required="true" />
             </div>
 
             <div class="form-group">
