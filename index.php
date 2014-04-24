@@ -5,6 +5,7 @@
   <meta name="description" content="CV de Rémy Mazabraud" />
   <link rel="icon" type="image/png" href="favicon.ico" />
 <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="favicon.ico" /><![endif]-->
+<meta name="viewport" content="initial-scale=1"/>
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
 	<link rel="stylesheet" type="text/css" href="BootStrap/zocial/zocial.css">
