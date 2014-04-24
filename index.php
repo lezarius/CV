@@ -3,9 +3,10 @@
 <head>
 	<meta charset="UTF-8">
   <meta name="description" content="CV de Rémy Mazabraud" />
+  <link rel="icon" type="image/png" href="favicon.ico" />
+<!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="favicon.ico" /><![endif]-->
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
-	<link rel="stylesheet" type="text/css" href="BootStrap/css/footer.css">
 	<link rel="stylesheet" type="text/css" href="BootStrap/zocial/zocial.css">
 </head>
 <body>
