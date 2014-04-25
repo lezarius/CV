@@ -8,7 +8,7 @@
               <li><a href="https://github.com/lezarius">GitHub</a></li>
               <li><a href="http://remy-mazabraud.eu">Pro</a></li>
             </ul>
-            <p>Créé par<a href="http://lezarius.eu"> Lezarius</a>. Pour le contacter, cliquez <a href="page/contact.php">ici</a>.</p>
+            <p>Créé par<a href="http://lezarius.eu"> Lezarius</a>.</p>
           </div>
 
       </footer>
