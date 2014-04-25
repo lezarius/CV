@@ -293,8 +293,8 @@ if(isset($_POST['submit'])) {
             </div>
 
             <div class="actions">
-              <input type="submit" value="Send Your Message" name="submit" id="submitButton" class="btn btn-primary" title="Click here to submit your message!" />
-              <input type="reset" value="Clear Form" class="btn btn-danger" title="Remove all the data from the form." />
+              <input type="submit" value="Envoyé votre méssage" name="submit" id="submitButton" class="btn btn-primary" title="Click here to submit your message!" />
+              <input type="reset" value="Netoyé le formualaire" class="btn btn-danger" title="Remove all the data from the form." />
             </div>
           </fieldset>
         </form>
