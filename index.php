@@ -9,6 +9,7 @@
 	<title>Home</title>
 	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
 	<link rel="stylesheet" type="text/css" href="BootStrap/zocial/zocial.css">
+  <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
 </head>
 <body>
 	<?php include 'menu.php'; ?>
@@ -128,7 +129,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <div class="row" id="competence">
 <div class="col-md-9 col-md-push-3">
 	<h1 align="center">Mes compétences</h1>
-	<h1 align="center"><span class="glyphicon glyphicon-cog"></span></h1>
+	<h1 align="center"><span class="fa fa-gear fa-spin fa-2x "></span></h1>
      <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">HTML & CSS
     <span class="sr-only">80% Complete</span>
