@@ -27,7 +27,7 @@
 <article>
 Je m'appelle donc Rémy Akaé Lezarius. Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
 Je suis un grand fan du jeu vidéo dit rétro, mais aussi des nouvelles technologies et de politique. Je réalise aussi quelques billets engagés
-sur le monde actuel et l'économie. J'aime aussi beaucoup prendre des photographie intéressants à partager.
+sur le monde actuel et l'économie. J'aime aussi beaucoup prendre des photographies intéressantes à partager.
 <br> 
 <br> 
 Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
@@ -47,8 +47,8 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <h4>Né le : </h4>
 <p>30 Janvier 1996</p> 
 <h4>Vit à l'adresse :</h4>
-<p>Résidence Gaston Cabannes Batiment 11 Appartement 115 </br>
-31 Avenue Gaston Cabannes </br>
+<p>Résidence GasVotre Cabannes Batiment 11 Appartement 115 </br>
+31 Avenue GasVotre Cabannes </br>
 33270 Floirac
 </p>
   </div>
@@ -92,7 +92,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <h3>En 2011 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Vente et relation clientelle dans un centre commercial.</p>
+              <p>Vente et relation client dans un centre commercial.</p>
               <small>Mag Presse 33270, Floirac</small>
             </blockquote>
           </div>
@@ -250,28 +250,28 @@ if(isset($_POST['submit'])) {
             <?php if(isset($emailSent) && $emailSent == true) { //If email is sent ?>
               <div class="alert alert-success">
                 <p><strong>Message envoyé !</strong></p>
-                <p>Merci pour le petit mot, <strong><?php echo $name;?></strong>! Ton message m'a bien été transmis !</p>
+                <p>Merci pour le petit mot, <strong><?php echo $name;?></strong>! Votre message m'a bien été transmis !</p>
               </div>
             <?php } ?>
 
             <div class="form-group">
-              <label for="name">Ton Nom/Prénom<span class="help-required">*</span></label>
+              <label for="name">Votre Nom/Prénom<span class="help-required">*</span></label>
               <input title="ContactName" type="text" name="contactname" id="contactname" value="" class="form-control required" role="input" aria-required="true" />
             </div>
 
             <div class="form-group">
-              <label for="phone">Ton numéro de téléphone<span class="help-required">*</span></label>
+              <label for="phone">Votre numéro de téléphone<span class="help-required">*</span></label>
               <input type="text" name="phone" id="phone" value="" class="form-control required" role="input" aria-required="true" />
             </div>
 
 
             <div class="form-group">
-              <label for="email">Ton Email<span class="help-required">*</span></label>
+              <label for="email">Votre Email<span class="help-required">*</span></label>
               <input type="text" name="email" id="email" value="" class="form-control required email" role="input" aria-required="true" />
             </div>
 
             <div class="form-group">
-              <label for="weburl">Ton Site Web<span class="help-required">*</span></label>
+              <label for="weburl">Votre Site Web<span class="help-required">*</span></label>
               <input type="text" name="weburl" id="weburl" value="" class="form-control required url" role="input" aria-required="true" />
             </div>
 
@@ -293,8 +293,8 @@ if(isset($_POST['submit'])) {
             </div>
 
             <div class="actions">
-              <input type="submit" value="Envoyé votre méssage" name="submit" id="submitButton" class="btn btn-primary" title="Click here to submit your message!" />
-              <input type="reset" value="Netoyé le formualaire" class="btn btn-danger" title="Remove all the data from the form." />
+              <input type="submit" value="Envoyer le message" name="submit" id="submitButVotre" class="btn btn-primary" title="Click here to submit your message!" />
+              <input type="reset" value="Netoyer le formulaire" class="btn btn-danger" title="Remove all the data from the form." />
             </div>
           </fieldset>
         </form>
