@@ -25,16 +25,16 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle donc Rémy Akaé Lezarius. Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
-Je suis un grand fan du jeu vidéo dit rétro, mais aussi des nouvelles technologies et de politique. Je réalise aussi quelques billets engagés
-sur le monde actuel et l'économie. J'aime aussi beaucoup prendre des photographies intéressantes à partager.
+Je m'appelle Rémy Akaé Lezarius. Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
+Passionné par les nouvelles technologies et la politique, je m’intéresse aussi au retro gaming. Je réalise aussi quelques billets engagés
+sur le monde actuel et l'économie. Sans oublier que je prends et partage des photographies.
 <br> 
 <br> 
 Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
 </article>
 
-<h1 align="center">Une autre facon de me voir</h1>
-<h3>Lezarius est mon "nom" sur les internets !</h3>
+<h1 align="center">Une autre façon de me voir</h1>
+<h3>Lezarius est mon pseudo sur les internets !</h3>
 <h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
 	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">@Lezarius</a>
@@ -224,9 +224,9 @@ if(isset($_POST['submit'])) {
 
   //If there is no error, send the email
   if(!isset($hasError)) {
-    $emailTo = 'contact@starry.pw'; // Put your own email address here
+    $emailTo = 'remy.mazabraud@gmail.com'; // Put your own email address here
     $body = "Name: $name \n\nEmail: $email \n\nPhone Number: $phone \n\nSubject: $subject \n\nComments:\n $comments";
-    $headers = 'From: Contact Pro <'.$emailTo.'>' . "\r\n" . 'Reply-To: ' . $email;
+    $headers = 'From: Contact Pro CV <'.$emailTo.'>' . "\r\n" . 'Reply-To: ' . $email;
 
     mail($emailTo, $subject, $body, $headers);
     $emailSent = true;
