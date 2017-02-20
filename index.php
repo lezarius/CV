@@ -25,9 +25,9 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle Rémy Akaé Lezarius. Je suis un scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
-Passionné par les nouvelles technologies et la politique, je m’intéresse aussi au retro gaming. Je réalise aussi quelques billets engagés
-sur le monde actuel et l'économie. Sans oublier que je prends et partage des photographies.
+Je m'appelle Ronce Akaé Lezarius. Je suis une scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
+Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retro gaming. Je réalise aussi quelques billets engagés
+sur le monde actuel et mes geekerie.
 <br> 
 <br> 
 Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
@@ -37,13 +37,12 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <h3>Lezarius est mon pseudo sur les internets !</h3>
 <h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
-	<a href="https://bitbucket.org/remy_mazabraud" class="zocial bitbucket">@Lezarius</a>
 	<a href="https://github.com/lezarius" class="zocial github">@Lezarius</a>
   </div>
   <!-- Petite colonne  -->
   <div class="col-md-3 col-md-pull-9">
-  	<h3><span class="glyphicon glyphicon-user"></span>Rémy Mazabraud</h3>
-<img src="img/profils.png" alt="" height="250" width="200">
+  	<h3><span class="glyphicon glyphicon-user"></span>Ronce Mazabraud</h3>
+<!-- <img src="img/profils.png" alt="" height="250" width="200">
 <h4>Né le : </h4>
 <p>30 Janvier 1996</p> 
 <h4>Vit à l'adresse :</h4>
@@ -52,7 +51,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 33270 Floirac
 </p>
   </div>
-</div>
+</div> -->
 <!-- Mes expériences -->
 <div class="row" id="xp">
 <h1 align="center">Mes expériences</h1>
@@ -142,17 +141,23 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 </div>
 <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">linux
-    <span class="sr-only">60% Complete</span>
+    <span class="sr-only">80% Complete</span>
   </div>
 </div>
 <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">Réseaux
-    <span class="sr-only">60% Complete</span>
+    <span class="sr-only">40% Complete</span>
   </div>
 </div>
 <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">Git
     <span class="sr-only">60% Complete</span>
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+  Team Work gestion
+    <span class="sr-only">70% Complete</span>
   </div>
 </div>
 </div>
@@ -303,11 +308,11 @@ if(isset($_POST['submit'])) {
     
 
 <div class="col-md-3 col-md-pull-6">
-<h1>Vous pouvez me retrouver aussi :</h1>
+<h1>Autre site que j'ai produit: </h1>
 <ul>
-	<li>Sur mon <a href="http://blog.lezarius.eu">blog</a></li>
-	<li>Sur mon site <a href="http://lezarius.eu">Perso</a></li>
-	<li>Sur mon site <a href="http://remy-mazabraud.eu">Pro</a></li>
+	<li>Sur mon <a href="http://blog.lezarius.science">blog</a></li>
+	<li>Sur mon site <a href="http://lezarius.science">Perso</a></li>
+	<li>Sur mon site <a href="http://lezarius.tech">Pro</a></li>
 	
 </ul>
 </div>
