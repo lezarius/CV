@@ -33,7 +33,7 @@ sur le monde actuel et mes geekerie.
 Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
 </article>
 
-<h1 align="center">Une autre façon de me voir</h1>
+<h1>Une autre façon de me voir</h1>
 <h3>Lezarius est mon pseudo sur les internets !</h3>
 <h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
@@ -51,7 +51,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 33270 Floirac
 </p>-->
   </div>
-</div> -->
+</div>
 <!-- Mes expériences -->
 <div class="row" id="xp">
 <h1 align="center">Mes expériences</h1>
