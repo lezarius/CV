@@ -49,7 +49,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <p>Résidence GasVotre Cabannes Batiment 11 Appartement 115 </br>
 31 Avenue GasVotre Cabannes </br>
 33270 Floirac
-</p>
+</p>-->
   </div>
 </div> -->
 <!-- Mes expériences -->
