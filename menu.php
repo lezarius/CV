@@ -28,12 +28,13 @@
               <a href="#competence">Mes compétences</a>
             </li>
             <li>
-              <a href="#contact">Me contacter</a>
+              <a href="http://lezarius.tech/contact.php">Me contacter</a>
             </li>
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://remy-mazabraud.eu">Mon site Pro</a></li>
+            <li><a href="http://resume.lezarius.tech">EN Resume</a></li>
+            <li><a href="http://lezarius.tech">Lezarius.tech</a></li>
           </ul>
 
         </div>
