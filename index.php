@@ -25,17 +25,17 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle Ronce Akaé Lezarius. Je suis une scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
-Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retro gaming. Je réalise aussi quelques billets engagés
+Je m'appelle Ronce alias Lezarius. Je suis une scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
+Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retrogaming. Je réalise aussi quelques billets engagés
 sur le monde actuel et mes geekerie.
 <br> 
 <br> 
-Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
+Pour autant, je reste ouverte d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
 </article>
 
 <h1>Une autre façon de me voir</h1>
 <h3>Lezarius est mon pseudo sur les internets !</h3>
-<h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
+<h6>Vous pouvez donc me retrouver sur différentes plateformes :</h6>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
 	<a href="https://github.com/lezarius" class="zocial github">@Lezarius</a>
   </div>
@@ -101,7 +101,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 <h3>En 2010 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Apprentissage des techniques de réalitation de bijoux et de tracés, conception d'une alliance et de différentes pièces en acier.</p>
+              <p>Apprentissage des techniques de réalisation de bijoux et de tracés, conception d'une alliance et de différentes pièces en acier.</p>
               <small>Bijouterie Bernard Espina 33000, Bordeaux</small>
             </blockquote>
           </div>
@@ -112,7 +112,7 @@ Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela q
 	<h1 align="center"><span class="glyphicon glyphicon-folder-open"></span></h1>
           <div class="col-lg-6">
             <blockquote>
-              <p>Diplôme National du Brevet des Collèges</p>
+              <p>Diplôme National du Brevet</p>
               <small>Maison Familiale du Blayais 2011 à 2013</small>
             </blockquote>
           </div>
