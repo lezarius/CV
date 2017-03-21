@@ -25,7 +25,7 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Une petite présentation s'impose ! </h1>
 <article>
-Je m'appelle Ronce alias Lezarius. Je suis une scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
+Je m'appelle Ronce alias Lezarius. Je suis scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
 Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retrogaming. Je réalise aussi quelques billets engagés
 sur le monde actuel et mes geekerie.
 <br> 
