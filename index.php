@@ -27,7 +27,7 @@
 <article>
 Je m'appelle Ronce alias Lezarius. Je suis scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
 Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retrogaming. Je réalise aussi quelques billets engagés
-sur le monde actuel et mes geekerie.
+sur le monde actuel et mes geekeries.
 <br> 
 <br> 
 Pour autant, je reste ouverte d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
