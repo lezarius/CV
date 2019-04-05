@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-  <meta name="description" content="CV de Rémy Mazabraud" />
+  <meta name="description" content="CV de Ronce Mazabraud" />
   <link rel="icon" type="image/png" href="favicon.ico" />
 <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="favicon.ico" /><![endif]-->
 <meta name="viewport" content="initial-scale=1"/>
 	<title>Home</title>
-	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css"> 
+	<link rel="stylesheet" type="text/css" href="BootStrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="BootStrap/zocial/zocial.css">
   <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
 </head>
@@ -15,41 +15,14 @@
 	<?php include 'menu.php'; ?>
 
 <div class="container">
-	
+
 
 
 <!-- Row de présentation -->
 <div class="row">
- <!-- Grande colonne  -->
-  <div class="col-md-9 col-md-push-3">
-  <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
-<h1 align="center"> Une petite présentation s'impose ! </h1>
-<article>
-Je m'appelle Ronce alias Lezarius. Je suis scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
-Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retrogaming. Je réalise aussi quelques billets engagés
-sur le monde actuel et mes geekeries.
-<br> 
-<br> 
-Pour autant, je reste ouverte d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
-</article>
-
-<h1>Une autre façon de me voir</h1>
-<h3>Lezarius est mon pseudo sur les internets !</h3>
-<h6>Vous pouvez donc me retrouver sur différentes plateformes :</h6>
-<p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
-	<a href="https://github.com/lezarius" class="zocial github">@Lezarius</a>
-  </div>
-  <!-- Petite colonne  -->
+   <!-- Petite colonne  -->
   <div class="col-md-3 col-md-pull-9">
   	<h3><span class="glyphicon glyphicon-user"></span>Ronce Mazabraud</h3>
-<!-- <img src="img/profils.png" alt="" height="250" width="200">
-<h4>Né le : </h4>
-<p>30 Janvier 1996</p> 
-<h4>Vit à l'adresse :</h4>
-<p>Résidence GasVotre Cabannes Batiment 11 Appartement 115 </br>
-31 Avenue GasVotre Cabannes </br>
-33270 Floirac
-</p>-->
   </div>
 </div>
 <!-- Mes expériences -->
